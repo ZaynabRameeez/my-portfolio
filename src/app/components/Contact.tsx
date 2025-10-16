@@ -8,10 +8,10 @@ const Contact = () => {
         
         <h2 className="text-3xl font-bold mb-4">Get In Touch</h2>
         <p className="text-gray-700 max-w-lg mx-auto mb-8">
-          I'm currently open to new opportunities and would love to hear from you. Whether you have a question or just want to say hi, feel free to reach out via email or give me a call.
+       I&apos;m currently open to new opportunities and would love to hear from you. Whether you have a question or just want to say hi, feel free to reach out via email or give me a call.
         </p>
 
-        {/* Call-to-action button for email */}
+        
         <a 
           href="mailto:zainabrameezoffl@gmail.com" 
           className="bg-gray-900 text-white font-bold py-3 px-8 rounded-lg hover:bg-gray-700 transition duration-300 inline-block"
@@ -19,7 +19,7 @@ const Contact = () => {
           Say Hello
         </a>
 
-        {/* Container for social links and phone number */}
+       
         <div className="mt-8 text-gray-700">
           <p className="mb-2">You can also find me on:</p>
           <div className="flex justify-center space-x-6 mb-4 font-semibold">

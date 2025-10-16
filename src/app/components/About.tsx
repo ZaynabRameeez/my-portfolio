@@ -19,7 +19,7 @@ const About = () => {
               I&apos;m Zaynab, a recent Software Engineering graduate.
             </h3>
             <p className="text-gray-700 mb-4">
-              I&apos;ve recently completed my degree and am passionate about turning complex problems into simple, beautiful, and intuitive designs. I am excited to apply my skills in a professional setting and contribute to meaningful projects.
+              I&apos;ve recently completed my degree and am passionate about turning complex problems into simple, beautiful, and intuitive designs. I&apos;m excited to apply my skills in a professional setting and contribute to meaningful projects.
             </p>
             <p className="text-gray-700">
               When I&apos;m not coding, I enjoy exploring new technologies, contributing to open-source projects, and reading about the latest trends in web development.
