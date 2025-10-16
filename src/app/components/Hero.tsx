@@ -9,12 +9,12 @@ const Hero = () => {
         
         {/* Main Heading */}
         <h1 className="text-4xl md:text-6xl font-bold leading-tight mb-4">
-          Hi, I'm Zaynab— A Creative Software Engineer
+           Hi, I&apos;m Zaynab— A Creative Software Engineer
         </h1>
 
         {/* Subheading */}
         <p className="text-lg md:text-xl text-gray-700 mb-8 max-w-2xl">
-          I specialize in building exceptional and accessible digital experiences. I'm passionate about crafting clean code and creating user-friendly applications.
+          I specialize in building exceptional and accessible digital experiences. I&apos;m passionate  about crafting clean code and creating user-friendly applications.
         </p>
 
         {/* Call-to-Action Buttons */}

@@ -7,7 +7,7 @@ const Navbar = () => {
       <div className="container mx-auto flex justify-between items-center">
         {/* Left side: Your Name */}
         <Link href="/" className="text-xl font-bold hover:text-blue-400">
-          Zaynab's Portfolio
+            Zaynab&apos;s Portfolio
         </Link>
 
         {/* Right side: Navigation Links */}
